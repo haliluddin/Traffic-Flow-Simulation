@@ -40,8 +40,8 @@ lane_vehicles = {
 veh_type_lookup = {0: 'car', 1: 'bus', 2: 'truck', 3: 'bike'}
 dir_idx_lookup = {0: 'right', 1: 'down', 2: 'left', 3: 'up'}
 
-signal_draw_coords = [(500, 230), (790, 230), (800, 570), (495, 570)]
-timer_draw_coords = [(530, 200), (820, 200), (830, 540), (525, 540)]
+signal_draw_coords = [(550, 235), (795, 235), (805, 567), (543, 567)]
+timer_draw_coords = [(552, 210), (797, 210), (807, 540), (545, 540)]
 
 stop_line_pos = {'right': 590, 'down': 330, 'left': 800, 'up': 535}
 default_stop_pos = {'right': 580, 'down': 320, 'left': 810, 'up': 545}
@@ -65,7 +65,7 @@ turn_midpoint = {
     'up':    {'x': 695, 'y': 400}
 }
 
-use_random_green = True
+use_random_green = False
 rand_green_range = [10, 20]
 
 elapsed_time = 0
