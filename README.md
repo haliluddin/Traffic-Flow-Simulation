@@ -1,4 +1,4 @@
-#Traffic-Flow-Simulation
+Traffic Flow Simulation
 
 This simulation models a four-way intersection with traffic lights. Vehicles of different types (cars, buses, trucks, bikes) are generated randomly, approach the intersection from four directions, and navigate according to traffic signal timings and lane choices. The simulation incorporates lane changes, vehicle turning behavior, and realistic vehicle movement based on speeds. The simulation runs for a predefined time.
 
