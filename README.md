@@ -1,5 +1,6 @@
 This simulation models a four-way intersection with traffic lights. Vehicles of different types (cars, buses, trucks, bikes) are generated randomly, approach the intersection from four directions, and navigate according to traffic signal timings and lane choices. The simulation incorporates lane changes, vehicle turning behavior, and realistic vehicle movement based on speeds. The simulation runs for a predefined time.
 
+![image alt](https://github.com/haliluddin/Traffic-Flow-Simulation/blob/19044babd55f6ccbaf48e34dca6ce9ca25b308b1/sample.png)
 
 Instructions on How to Run:
 1. Clone this repository.
